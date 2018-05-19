@@ -1,0 +1,13 @@
+﻿  main.cpp
+f:\git\unityopencv\handdetectioncv\vs2013 version\handdetection\main.cpp(60): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+f:\git\unityopencv\handdetectioncv\vs2013 version\handdetection\main.cpp(62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+f:\git\unityopencv\handdetectioncv\vs2013 version\handdetection\main.cpp(63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+f:\git\unityopencv\handdetectioncv\vs2013 version\handdetection\main.cpp(64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+f:\git\unityopencv\handdetectioncv\vs2013 version\handdetection\main.cpp(156): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+f:\git\unityopencv\handdetectioncv\vs2013 version\handdetection\main.cpp(187): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+f:\git\unityopencv\handdetectioncv\vs2013 version\handdetection\main.cpp(294): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+f:\git\unityopencv\handdetectioncv\vs2013 version\handdetection\main.cpp(295): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+f:\git\unityopencv\handdetectioncv\vs2013 version\handdetection\main.cpp(335): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+f:\git\unityopencv\handdetectioncv\vs2013 version\handdetection\main.cpp(336): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+f:\git\unityopencv\handdetectioncv\vs2013 version\handdetection\main.cpp(347): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  HandDetection.vcxproj -> F:\Git\UnityOpenCV\handDetectionCV\VS2013 Version\x64\Debug\HandDetection.exe
